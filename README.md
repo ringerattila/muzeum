@@ -17,13 +17,16 @@ A projekt tartalmához kapcsolódó játékos feladatok elkészítése még foly
 <td><img src="Images/talpunk_02.jpg" alt="alt szöveg" width="360" height="240"></td>
 </tr>
 <tr>
-<td></td><td></td>
+<td><img src="Images/talpunk_03.jpg" alt="alt szöveg" width="360" height="240"></td>
+<td><img src="Images/talpunk_04.jpg" alt="alt szöveg" width="360" height="240"></td>
 </tr>
 <tr>
-<td></td><td></td>
+<td><img src="Images/talpunk_05.jpg" alt="alt szöveg" width="360" height="240"></td>
+<td><img src="Images/talpunk_06.jpg" alt="alt szöveg" width="360" height="240"></td>
 </tr>
 <tr>
-<td></td><td></td>
+<td><img src="Images/talpunk_07.jpg" alt="alt szöveg" width="360" height="240"></td>
+<td><img src="Images/talpunk_08.jpg" alt="alt szöveg" width="360" height="240"></td>
 </tr>
 </table>
 
