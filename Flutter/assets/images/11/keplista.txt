@@ -1,0 +1,38 @@
+11:  [
+    AsatasImage(
+  folder: "11/", filename: "11_01_883x600.jpg", width: 883, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_02_900x600.jpg", width: 900, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_03_900x600.jpg", width: 900, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_04_900x600.jpg", width: 900, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_05_900x600.jpg", width: 900, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_06_929x600.jpg", width: 929, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_07_801x600.jpg", width: 801, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_08_801x600.jpg", width: 801, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_09_801x600.jpg", width: 801, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_10_424x600.jpg", width: 424, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_11_653x600.jpg", width: 653, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_12_914x600.jpg", width: 914, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_13_640x600.jpg", width: 640, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_14_408x600.jpg", width: 408, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_15_600x600.jpg", width: 600, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_16_894x600.jpg", width: 894, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_17_1105x600.jpg", width: 1105, height: 600, title: "c",),
+    AsatasImage(
+  folder: "11/", filename: "11_18_979x600.jpg", width: 979, height: 600, title: "c",),
+ ],

@@ -1,0 +1,72 @@
+24:  [
+    AsatasImage(
+  folder: "24/", filename: "24_01_908x600.jpg", width: 908, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_02_913x600.jpg", width: 913, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_03_943x600.jpg", width: 943, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_04_888x600.jpg", width: 888, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_05_887x600.jpg", width: 887, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_06_401x600.jpg", width: 401, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_07_809x600.jpg", width: 809, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_08_430x600.jpg", width: 430, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_09_829x600.jpg", width: 829, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_10_400x600.jpg", width: 400, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_11_530x600.jpg", width: 530, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_12_710x600.jpg", width: 710, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_13_900x600.jpg", width: 900, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_14_896x600.jpg", width: 896, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_15_900x600.jpg", width: 900, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_16_900x600.jpg", width: 900, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_17_900x600.jpg", width: 900, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_18_898x600.jpg", width: 898, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_19_900x600.jpg", width: 900, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_20_522x600.jpg", width: 522, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_21_1014x600.jpg", width: 1014, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_22_800x600.jpg", width: 800, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_23_800x600.jpg", width: 800, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_24_836x600.jpg", width: 836, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_25_900x600.jpg", width: 900, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_26_699x600.jpg", width: 699, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_27_400x600.jpg", width: 400, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_28_400x600.jpg", width: 400, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_29_900x600.jpg", width: 900, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_30_900x600.jpg", width: 900, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_31_900x600.jpg", width: 900, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_32_900x600.jpg", width: 900, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_33_900x600.jpg", width: 900, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_34_800x600.jpg", width: 800, height: 600, title: "c",),
+    AsatasImage(
+  folder: "24/", filename: "24_35_800x600.jpg", width: 800, height: 600, title: "c",),
+ ],
