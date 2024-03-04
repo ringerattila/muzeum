@@ -13,8 +13,8 @@ A megjelenítés egy 55"-os érintőmonitoron történik, a tartalomban jól fel
 A projekt tartalmához kapcsolódó játékos feladatok elkészítése még folyamatban van.
 <table>
 <tr>
-<td>![Talpunk alatt](Images/talpunk01.jpg "Talpunk alatt")</td>
-<td>![Talpunk alatt](Images/talpunk02.jpg "Talpunk alatt")</td>
+<td>![Talpunk alatt](Images/talpunk01.jpg)</td>
+<td>![Talpunk alatt](Images/talpunk02.jpg)</td>
 </tr>
 <tr>
 <td></td><td></td>
