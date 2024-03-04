@@ -13,7 +13,7 @@ A megjelenítés egy 55"-os érintőmonitoron történik, a tartalomban jól fel
 A projekt tartalmához kapcsolódó játékos feladatok elkészítése még folyamatban van.
 <table style="border:0px;">
 <tr>
-<td><img src="Images/talpunk_01.jpg" alt="alt szöveg" width="250" height="520"></td>
+<td><img src="Images/talpunk_01.jpg" alt="alt szöveg" width="300" height="200"></td>
 <td>![Talpunk alatt](Images/talpunk_02.jpg)</td>
 </tr>
 <tr>
